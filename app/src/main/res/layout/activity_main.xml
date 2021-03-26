@@ -70,7 +70,7 @@
                 android:padding="20dp">
 
                 <TextView
-                    android:id="@+id/textView12"
+                    android:id="@+id/tv_blog"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:drawableTop="@drawable/ic_baseline_backpack_24"
