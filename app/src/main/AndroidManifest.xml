@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BCADS3">
-        <activity android:name=".OnBoardingThreeActivity"></activity>
+        <activity android:name=".SignUpActivity"></activity>
+        <activity android:name=".SignInActivity" />
+        <activity android:name=".OnBoardingThreeActivity" />
         <activity android:name=".OnBoardingTwoActivity" />
         <activity android:name=".OnBoardingActivity" />
         <activity android:name=".SplashScreenActivity" />

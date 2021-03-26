@@ -14,4 +14,10 @@
     <string name="sign_in">Sign In</string>
     <string name="pilih_strategi_yang_kamu_inginkan">Pilih strategi yang kamu inginkan</string>
     <string name="choose">Choose</string>
+    <string name="sign_in_to_continue">Sign In to Continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="not_an_a_member_sign_up">Not an a member? Sign up</string>
 </resources>
