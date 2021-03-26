@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BC ADS 3</string>
+    <string name="get_started">Get Started</string>
+    <string name="hello">Hello</string>
+    <string name="sudah_menabungkah_hari_ini">Sudah menabungkah hari ini?</string>
+    <string name="wallet_illustration">Wallet Illustration</string>
+    <string name="onboarding_one_illustration">OnBoarding One Illustration</string>
+    <string name="bank_illustration">Bank Illustration</string>
+    <string name="understand">Understand</string>
+    <string name="pahami_kondisi_financial_sekarang">Pahami kondisi financial sekarang</string>
+    <string name="next">Next</string>
+    <string name="goal">Goal</string>
+    <string name="tentukan_tujuan_keuanganmu">Tentukan tujuan keuanganmu</string>
+    <string name="sign_in">Sign In</string>
+    <string name="pilih_strategi_yang_kamu_inginkan">Pilih strategi yang kamu inginkan</string>
+    <string name="choose">Choose</string>
+</resources>
